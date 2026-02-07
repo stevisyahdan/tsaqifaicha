@@ -1,0 +1,7 @@
+{
+  "name": "Apotek Senyum Sehat - Management System",
+  "description": "A comprehensive pharmacy management application featuring professional accounts payable printing and complete medicine database.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
