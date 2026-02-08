@@ -22,7 +22,9 @@ const GOLONGAN_OPTIONS = [
   { label: 'Obat Keras (K)', code: 'OK' },
   { label: 'Psikotropika', code: 'PS' },
   { label: 'Narkotika', code: 'NK' },
-  { label: 'Obat Program (TB/HIV)', code: 'PR' }
+  { label: 'Suppositoria', code: 'SUPP' },
+  { label: 'Obat Program (TB/HIV)', code: 'PR' },
+  { label: 'Lainnya', code: 'LL' }
 ];
 
 const BENTUK_OPTIONS = [
@@ -39,6 +41,8 @@ const BENTUK_OPTIONS = [
   { label: 'Inhaler', code: 'inh' },
   { label: 'Respule', code: 'rsp' },
   { label: 'Minidose', code: 'md' },
+  { label: 'Eyedrop', code: 'ed' },
+  { label: 'Pouch', code: 'pc' },
   { label: 'Pcs', code: 'pcs' }
 ];
 
