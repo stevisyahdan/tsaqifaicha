@@ -42,6 +42,7 @@ const BENTUK_OPTIONS = [
   { label: 'Respule', code: 'rsp' },
   { label: 'Minidose', code: 'md' },
   { label: 'Eyedrop', code: 'ed' },
+  { label: 'Eyeoint', code: 'eo' },
   { label: 'Pouch', code: 'pc' },
   { label: 'Pcs', code: 'pcs' }
 ];
